@@ -1,16 +1,12 @@
 # flutter_app_base
+用户创建基础的项目基础
+    网络监听
+    权限控制
+    设备屏幕适配
+    设备信息获取
+    本地资源缓存
+    版本更新控制
+    基础路由权限控制
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 设备屏幕适配
+    
