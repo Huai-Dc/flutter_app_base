@@ -28,7 +28,7 @@ dependencies:
   bloc: ^2.0.0
   flutter_bloc: ^2.0.0
   # 网络请求
-  dio: ^3.0.3
+  dio: ">=3.0.3 <6.0.0"
   # 网络状态
   connectivity: ^0.4.5+1
   # 经纬度计算
